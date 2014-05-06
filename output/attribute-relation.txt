@@ -1,0 +1,14 @@
+@RELATION IconPrediction
+
+   @ATTRIBUTE grad1  NUMERIC
+   @ATTRIBUTE grad2   NUMERIC
+   @ATTRIBUTE grad3  NUMERIC
+   @ATTRIBUTE grad4   NUMERIC
+   @ATTRIBUTE grad5  NUMERIC
+   @ATTRIBUTE grad6   NUMERIC
+   @ATTRIBUTE grad7  NUMERIC
+   @ATTRIBUTE grad8   NUMERIC
+   @ATTRIBUTE grad9   NUMERIC
+   @ATTRIBUTE class  {-1,0,1,2}
+   
+@data

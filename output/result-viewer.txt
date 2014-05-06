@@ -1,0 +1,16 @@
+8x8 - cell 16x16 block
+	testdata1 - 0 for class - to be predicted
+		knn
+		logistic	
+		linear
+		decision trees
+	testdata2 - results from openCv
+		knn
+		logistic
+		linear
+		decision trees
+	testdata3 - manual attributes
+		knn
+		logistic
+		linear
+		decision trees
